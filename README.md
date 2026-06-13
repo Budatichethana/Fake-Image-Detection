@@ -186,15 +186,6 @@ Fake-Image-Detection/
 
 ---
 
-## 👩‍💻 Author
-
-**Chethana Budati**
-
-B.Tech – Computer Science and Engineering  
-ABV-IIITM Gwalior
-
----
-
 ## Acknowledgements
 
 - PyTorch
