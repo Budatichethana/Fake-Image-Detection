@@ -68,6 +68,7 @@ https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-
 
 #### Structure
 
+```text
 train/
 ├── REAL/
 └── FAKE/
@@ -75,6 +76,7 @@ train/
 test/
 ├── REAL/
 └── FAKE/
+```
 
 
 ## ⚙️ Methodology
@@ -172,6 +174,7 @@ Grad-CAM was used to visualize image regions influencing model predictions.
 
 ## 📁 Repository Structure
 
+```text
 Fake-Image-Detection/
 │
 ├── resnet50.ipynb
@@ -183,6 +186,7 @@ Fake-Image-Detection/
 ├── fusion.ipynb
 ├── fusion-deep.ipynb
 └── README.md
+```
 
 ---
 
