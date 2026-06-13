@@ -47,6 +47,7 @@ https://www.kaggle.com/datasets/cashbowman/ai-generated-images-vs-real-images
 
 #### Structure
 
+```text
 train/
 ├── real/
 └── fake/
@@ -54,6 +55,7 @@ train/
 test/
 ├── real/
 └── fake/
+```
 
 ### Dataset 2: CIFAKE Dataset
 
